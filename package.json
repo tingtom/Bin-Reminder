@@ -1,0 +1,13 @@
+{
+  "name": "bin-reminder",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "tingtom"
+  },
+  "dependencies": {
+    "@slack/client": "^3.12.0",
+    "osmosis": "^1.1.4"
+  }
+}
